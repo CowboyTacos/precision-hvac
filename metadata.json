@@ -1,0 +1,7 @@
+{
+  "name": "Precision Heating & Air",
+  "description": "Professional HVAC services including AC repair, heating installation, and preventative maintenance.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
