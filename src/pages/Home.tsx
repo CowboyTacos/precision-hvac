@@ -18,7 +18,7 @@ const Home = () => {
       <section className="relative bg-slate-900 overflow-hidden">
         <div className="absolute inset-0 opacity-20">
           <img 
-            src="https://images.unsplash.com/photo-1581094288338-2314dddb7ec3?auto=format&fit=crop&q=80&w=2000" 
+            src="https://picsum.photos/seed/hvac-hero/1920/1080" 
             alt="HVAC Technician" 
             className="w-full h-full object-cover"
             referrerPolicy="no-referrer"
@@ -99,7 +99,7 @@ const Home = () => {
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
             <div className="relative">
               <img 
-                src="https://images.unsplash.com/photo-1621905251189-08b45d6a269e?auto=format&fit=crop&q=80&w=1000" 
+                src="https://picsum.photos/seed/hvac-worker/1000/800" 
                 alt="HVAC Service" 
                 className="rounded-3xl shadow-2xl"
                 referrerPolicy="no-referrer"

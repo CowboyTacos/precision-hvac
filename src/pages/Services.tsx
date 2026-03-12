@@ -8,7 +8,7 @@ const Services = () => {
       id: 'ac-repair',
       title: 'AC Repair',
       icon: <Snowflake className="w-12 h-12 text-blue-500" />,
-      image: 'https://images.unsplash.com/photo-1599939571322-792a326991f2?auto=format&fit=crop&q=80&w=1000',
+      image: 'https://picsum.photos/seed/ac-repair/1000/800',
       description: 'Is your air conditioner blowing warm air or making strange noises? Our expert technicians can diagnose and repair any AC issue quickly.',
       features: ['24/7 Emergency Repair', 'All Brands & Models', 'Refrigerant Leak Detection', 'Compressor Repair']
     },
@@ -16,7 +16,7 @@ const Services = () => {
       id: 'ac-installation',
       title: 'AC Installation',
       icon: <Wind className="w-12 h-12 text-emerald-500" />,
-      image: 'https://images.unsplash.com/photo-1621905252507-b354bcadccea?auto=format&fit=crop&q=80&w=1000',
+      image: 'https://picsum.photos/seed/ac-install/1000/800',
       description: 'Upgrade to a high-efficiency cooling system. We help you choose the right unit for your home size and budget.',
       features: ['Energy-Efficient Units', 'Professional Sizing', 'Ductwork Inspection', 'Financing Available']
     },
@@ -24,7 +24,7 @@ const Services = () => {
       id: 'furnace-repair',
       title: 'Furnace Repair',
       icon: <Flame className="w-12 h-12 text-orange-500" />,
-      image: 'https://images.unsplash.com/photo-1585338107529-13afc5f02586?auto=format&fit=crop&q=80&w=1000',
+      image: 'https://picsum.photos/seed/furnace-repair/1000/800',
       description: 'Don\'t stay in the cold. We provide fast furnace and heating system repairs to keep your family warm all winter.',
       features: ['Gas & Electric Furnaces', 'Heat Pump Repair', 'Thermostat Calibration', 'Safety Inspections']
     },
@@ -32,7 +32,7 @@ const Services = () => {
       id: 'heating-installation',
       title: 'Heating Installation',
       icon: <Thermometer className="w-12 h-12 text-red-500" />,
-      image: 'https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?auto=format&fit=crop&q=80&w=1000',
+      image: 'https://picsum.photos/seed/heating-install/1000/800',
       description: 'Modern heating systems are more efficient than ever. We install top-tier furnaces and heat pumps designed for longevity.',
       features: ['Custom System Design', 'High-AFUE Ratings', 'Smart Thermostat Integration', 'Warranty Protection']
     },
@@ -40,7 +40,7 @@ const Services = () => {
       id: 'maintenance',
       title: 'Preventative Maintenance',
       icon: <ShieldCheck className="w-12 h-12 text-slate-500" />,
-      image: 'https://images.unsplash.com/photo-1621905251189-08b45d6a269e?auto=format&fit=crop&q=80&w=1000',
+      image: 'https://picsum.photos/seed/hvac-maintenance/1000/800',
       description: 'Regular maintenance extends the life of your HVAC system and prevents costly breakdowns. Join our Comfort Club today.',
       features: ['Seasonal Tune-ups', 'Filter Replacements', 'System Cleaning', 'Priority Scheduling']
     }

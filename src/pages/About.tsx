@@ -39,7 +39,7 @@ const About = () => {
             </div>
             <div className="relative">
               <img 
-                src="https://images.unsplash.com/photo-1581092160562-40aa08e78837?auto=format&fit=crop&q=80&w=1000" 
+                src="https://picsum.photos/seed/hvac-team/1000/800" 
                 alt="HVAC Team" 
                 className="rounded-3xl shadow-2xl"
                 referrerPolicy="no-referrer"
